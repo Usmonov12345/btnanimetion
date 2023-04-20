@@ -21,8 +21,6 @@ body{
 
 .btn:hover{
     color: #833ab4;
-    border-radius: 3px;
-    transform: scale(0.3);
 
 
 }
@@ -38,6 +36,7 @@ body{
     background-color: white;
     z-index: -1;
     transition: 1s;
+
 
 }
 
